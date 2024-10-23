@@ -22,6 +22,8 @@ This project explores a Netflix dataset using SQL to uncover insights about its 
 
 ## Dataset
 
+Source: The daa set was obtained from [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows/code) 
+
 The dataset used in this project contains information about Netflix content, including:
 
 *   **show_id:** Unique identifier for each show.
